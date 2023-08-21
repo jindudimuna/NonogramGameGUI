@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=PanelCell
+comment0.text=\r\n\r\n\ @author\ Daniel\ Dimuna\r\n\ @version\ September\ 2022\r\n
+comment1.params=np\ r\ c\ state
+comment1.target=PanelCell(NonogramPanel,\ int,\ int,\ int)
+comment2.params=e
+comment2.target=void\ mouseClicked(java.awt.event.MouseEvent)
+comment3.params=state
+comment3.target=void\ updateBackground(int)
+comment4.params=
+comment4.target=void\ updateGame()
+numComments=5

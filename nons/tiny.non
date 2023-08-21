@@ -1,0 +1,20 @@
+catalogue "https://www.puzzles-mobile.com/nonograms/random/5x5 Random - 9,021,521"
+
+width 5
+height 5
+
+rows
+1,2
+2,2
+2
+1,1,1
+1
+
+columns
+4
+2
+1
+2
+2,2
+
+goal "1001111011110001010100001"

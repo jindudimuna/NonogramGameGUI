@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=NonogramException
+comment0.text=\r\n\ A\ problem-specific\ run\ time\ exception\ for\ a\ Nonogram\ puzzle.\r\n\ \r\n\ @author\ Dr\ Mark\ C.\ Sinclair\r\n\ @version\ June\ 2022\r\n
+comment1.params=msg
+comment1.target=NonogramException(java.lang.String)
+comment1.text=\r\n\ Constructor\ with\ explanatory\ message\r\n\ \r\n\ @param\ message\ the\ explanatory\ message\r\n
+numComments=2

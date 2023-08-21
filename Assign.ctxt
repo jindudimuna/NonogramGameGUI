@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Assign
+comment0.text=\r\n\ A\ cell\ assignment\ (i.e.\ a\ move)\ in\ a\ Nonogram\ puzzle.\r\n\ \r\n\ @author\ Dr\ Mark\ C.\ Sinclair\r\n\ @version\ September\ 2022\r\n
+comment1.params=row\ col\ state
+comment1.target=Assign(int,\ int,\ int)
+comment1.text=\r\n\ Constructor\r\n\ \r\n\ @param\ row\ \ \ the\ row\ of\ the\ cell\ to\ be\ assigned\r\n\ @param\ col\ \ \ the\ column\ of\ the\ cell\ to\ be\ assigned\r\n\ @param\ state\ the\ assignment\ (will\ be\ EMPTY,\ FULL\ or\ UNKNOWN)\r\n
+comment2.params=
+comment2.target=int\ getRow()
+comment2.text=\r\n\ Retrieve\ the\ cell\ row\r\n\ \r\n\ @return\ the\ row\r\n
+comment3.params=
+comment3.target=int\ getCol()
+comment3.text=\r\n\ Retrieve\ the\ cell\ column\r\n\ \r\n\ @return\ the\ column\r\n
+comment4.params=
+comment4.target=int\ getState()
+comment4.text=\r\n\ Retrieve\ the\ cell\ state\r\n\ \r\n\ @return\ the\ assignment\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ String\ representation\ of\ the\ assignment\ (useful\ for\ debugging)\r\n\ \r\n\ @return\ the\ String\ representation\r\n
+comment6.params=
+comment6.target=java.lang.String\ toStringForFile()
+numComments=7
